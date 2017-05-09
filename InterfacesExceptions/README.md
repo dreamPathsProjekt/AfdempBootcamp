@@ -1,8 +1,16 @@
 # AfdempBootcamp
 
-## Polymorphism
+## Interfaces
 
-[Exercise - Insurance Application Extended](/Polymorphism/InsuranceAppExtended)
+[Exercise - Interfaces1](/InterfacesExceptions/Interfaces1)
+
+[Exercise - Interfaces2](/InterfacesExceptions/Interfaces2)
+
+---
+
+## Exceptions
+
+[Exercise - Exceptions](/InterfacesExceptions/Exceptions)
 
 
 
