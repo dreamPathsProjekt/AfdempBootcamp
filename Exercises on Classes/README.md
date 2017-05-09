@@ -10,7 +10,6 @@
 
 [Exercise 4 - Library App with CommandLine Interface](/Objects/Exercise24)
 
-[Exercise 5 - Tic Tac Toe app](/Objects/TicTacToe)
 
 
 
