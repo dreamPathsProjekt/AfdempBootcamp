@@ -1,22 +1,16 @@
 # AfdempBootcamp
 
-## Basic Java Programming
+## Objects
 
-[Exercise 1](/Exercises%20on%20Basic%20Java%20Programming/exercise1)
+[Exercise 1](/Objects/Exercise21)
 
-[Exercise 2](/Exercises%20on%20Basic%20Java%20Programming/exercise2)
+[Exercise 2](/Objects/Exercise22)
 
-[Exercise 3](/Exercises%20on%20Basic%20Java%20Programming/Exercise3)
+[Exercise 3](/Objects/Exercise23)
 
-[Exercise 4](/Exercises%20on%20Basic%20Java%20Programming/exercise4)
+[Exercise 4](/Objects/Exercise24)
 
-[Exercise 5](/Exercises%20on%20Basic%20Java%20Programming/Exercise5)
+[Exercise 5-Tic Tac Toe app](/Objects/TicTacToe)
 
-[Exercise 6](/Exercises%20on%20Basic%20Java%20Programming/Exercise6)
 
-[Exercise 7](/Exercises%20on%20Basic%20Java%20Programming/Exercise7)
-
-[Exercise 8](/Exercises%20on%20Basic%20Java%20Programming/Exercise8)
-
-[Exercise 9](/Exercises%20on%20Basic%20Java%20Programming/exercise9)
 
