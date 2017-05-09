@@ -8,7 +8,7 @@
 
 [Exercise 3 - Library Application](/Exercises%20on%20Classes/LibraryApp)
 
-[Exercise 4 - Library App with CommandLine Interface](/Objects/Exercise24)
+[Exercise 4 - Library App with CommandLine Interface](/Exercises%20on%20Classes/LibraryCli)
 
 
 
