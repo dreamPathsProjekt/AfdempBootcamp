@@ -1,6 +1,6 @@
 # AfdempBootcamp
 
-## Objects
+## Exercises on Classes
 
 [Exercise 1](/Exercises%20on%20Classes/Exercise31)
 
